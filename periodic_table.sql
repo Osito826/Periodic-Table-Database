@@ -132,7 +132,7 @@ INSERT INTO public.elements VALUES (10, 'Ne', 'Neon');
 -- Data for Name: properties; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.properties VALUES (8, 15, -218, -183, 1);
+INSERT INTO public.properties VALUES (8, 15.999, -218, -183, 1);
 INSERT INTO public.properties VALUES (1, 1.008, -259.1, -252.9, 1);
 INSERT INTO public.properties VALUES (2, 4.0026, -272.2, -269, 1);
 INSERT INTO public.properties VALUES (3, 6.94, 180.54, 1342, 2);
